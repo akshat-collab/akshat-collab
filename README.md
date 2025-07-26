@@ -1,33 +1,71 @@
-👋 Hi there, I'm Akshat !
-I'm an AI/ML and Software Engineer driven by a profound passion for technology and a relentless curiosity for building impactful solutions. My academic foundation at VIT Bhopal has provided me with a strong grounding in both theoretical concepts and practical applications.
+<h1 align="center">👋 Hi, I'm Akshat Singh</h1>
+<p align="center">
+  <em>AI/ML Engineer • Full-Stack Developer • Tech Enthusiast</em>
+</p>
 
-🚀 What I Do
-I specialize in the intersection of Artificial Intelligence, Machine Learning, and robust Software Engineering. I love diving deep into complex problems, transforming ideas into scalable and efficient applications. My expertise spans:
+---
 
-Machine Learning & Deep Learning: Model development, data preprocessing, MLOps.
+### 🚀 About Me
 
-Software Development: Full-stack development, system architecture, clean code practices.
+I'm an **AI/ML and Software Engineer** passionate about building meaningful tech that blends intelligence with impact. I'm currently pursuing my studies at **VIT Bhopal**, where I combine academic rigor with hands-on experience to solve complex, real-world problems.
 
-Programming Languages: Python (primary), Java, JavaScript.
+I enjoy crafting scalable, intelligent systems and diving deep into full-cycle ML development — from data wrangling to deployment.
 
-Frameworks & Tools: TensorFlow, PyTorch, Scikit-learn, React, Node.js, Cloud Platforms (e.g., AWS, GCP).
+---
 
-✨ My Philosophy
-I believe in crafting elegant, maintainable code and developing AI solutions that not only perform exceptionally but also deliver tangible value. I'm always eager to learn new technologies and embrace challenging "deep projects" that push the boundaries of what's possible.
+### 🧠 What I Work On
 
+- 🤖 **Machine Learning / Deep Learning**
+  - Model development & evaluation
+  - End-to-end ML pipelines
+  - TensorFlow | PyTorch | Scikit-learn
+- 🧑‍💻 **Software Engineering**
+  - Full-stack web development
+  - Clean architecture & scalable design
+  - React.js | Node.js | Express | MongoDB
+- ☁️ **DevOps & Cloud**
+  - AWS | GCP | MLOps practices
+- 💬 **Languages I Speak**
+  - Python 🐍 | Java ☕ | JavaScript ⚡
 
+---
 
-(Add more as needed)
+### ✨ My Tech Philosophy
 
-🌱 I'm Currently Learning  Deep learning and  Artificial Intelligence
+> *"Build with clarity. Code with purpose. Scale with intelligence."*
 
-🤝 Let's Connect!
-I'm always open to discussing new ideas, collaborating on exciting projects, or exploring challenging engineering opportunities.
+I'm driven by elegant code, meaningful design, and building systems that *learn*, *adapt*, and *deliver value*. Whether it's AI-driven decision-making or cloud-native applications — I'm all in.
 
-LinkedIn: www.linkedin.com/in/
-akshat-singh-1103a0370
+---
 
+### 🌱 Currently Exploring
 
-Email: akshatthakur823@gmail.com
+- 📚 Deep Learning (CNNs, Transformers, GANs)
+- 🧠 Federated Learning for privacy-aware AI
+- 📊 AI + Cybersecurity Research
 
-Thanks for stopping by!
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatsingh-ai&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatsingh-ai&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🤝 Let’s Collaborate
+
+- 💼 Open to internships, research, or freelance opportunities
+- 💡 Always happy to discuss AI/ML ideas or software systems
+
+📫 **Reach Me At:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-singh-1103a0370)
+- 📬 akshatthakur823@gmail.com
+
+---
+
+### 🙌 Thanks for stopping by!
+
+If you like what I do, consider giving ⭐ to some of my repos or connecting on LinkedIn!
