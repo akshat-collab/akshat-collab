@@ -57,7 +57,7 @@ I'm **Akshat Singh**, an AI/ML and Software Engineer based in India, driven by c
 - AI/ML Model Development
 - Full-Stack Projects (React + Node)
 - Security-focused ML systems
-
+ 
 📫 **Connect With Me**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/akshat-singh-1103a0370/)
 - 📧 akshatthakur823@gmail.com
