@@ -1,6 +1,6 @@
 <!-- Matrix Rain Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Akshat SIngh&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Akshat &fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Matrix Typing Animation -->
