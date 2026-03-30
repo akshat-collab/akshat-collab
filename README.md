@@ -1,352 +1,179 @@
+<!-- Matrix Rain Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Irfan&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+</div>
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00d9ff,100:7f00ff&height=200&section=header&text=Akshat%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Deep%20Learning%20Explorer&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+from+Scratch;%F0%9F%94%A5+Federated+Learning+%26+Privacy-First+AI;%E2%98%81%EF%B8%8F+Cloud-Native+ML+Pipelines+at+Scale;%F0%9F%9A%80+Turning+Research+Papers+into+Real+Products;%F0%9F%8E%B5+Always+Coding%2C+Always+Vibing" alt="Typing SVG" />
-</a>
+<!-- Matrix Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+Cool+Stuff+Daily;%F0%9F%9A%80+Open+Source+Enthusiast;%E2%9C%A8+Turning+Coffee+into+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<!-- BADGES ROW -->
-<a href="https://www.linkedin.com/in/akshat-singh-1103a0370/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="mailto:akshatthakur823@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="https://github.com/akshat-collab">
-  <img src="https://img.shields.io/badge/GitHub-akshat--collab-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=akshat-collab&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<!-- MUSIC / VIBE CARD -->
-<a href="https://open.spotify.com" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
-</a>
-
+<!-- Matrix Animation GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
 
 ---
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  &nbsp;About Me &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <div align="center">
-
-## ⚡ `whoami`
-
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </div>
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-╔══════════════════════════════════════════════════════════╗
-║          AKSHAT SINGH — SYSTEM PROFILE v2.0              ║
-╚══════════════════════════════════════════════════════════╝
-"""
+class Irfan:
+    def __init__(self):
+        self.name       = "Akshat Singh"
+        self.username   = "akshat-collab"
+        self.location   = "India 🇮🇳"
+        self.role       = "Full Stack Developer"
+        self.languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
+        self.frameworks = ["React", "Node.js", "Django", "Express"]
+        self.databases  = ["MongoDB", "MySQL", "PostgreSQL"]
+        self.tools      = ["Git", "Docker", "VS Code", "Postman"]
+        self.hobbies    = ["Coding", "Open Source", "Problem Solving", "Gaming"]
 
-from dataclasses import dataclass, field
-from typing import List
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-@dataclass
-class AkshatSingh:
-    handle      : str  = "akshat-collab"
-    location    : str  = "🇮🇳 VIT Bhopal, India"
-    role        : str  = "AI/ML Engineer & Full-Stack Developer"
-    focus       : str  = "Federated Learning · Privacy-Preserving AI · Scalable ML"
-    
-    languages   : List[str] = field(default_factory=lambda: [
-        "Python 🐍", "Java ☕", "TypeScript 💙", "C++ ⚙️", "SQL 🗄️"
-    ])
-    
-    passions    : List[str] = field(default_factory=lambda: [
-        "🧠 Deep Learning Research",
-        "🔐 Cybersecurity & Privacy Tech",
-        "☁️  Cloud-Native Architecture",
-        "🎵 Lo-fi while debugging at 2am",
-        "🚀 Shipping things that actually work"
-    ])
-    
-    current_jam : str  = "🎵 coding to synthwave & lo-fi hip hop"
-    motto       : str  = "\"If it compiles, ship it. If it doesn't, ship the error too.\""
-    
-    def __post_init__(self):
-        print(f"\n  👋 Hey! I'm {self.handle}")
-        print(f"  📍 {self.location}")
-        print(f"  💼 {self.role}")
-        print(f"  🔭 Current Focus: {self.focus}")
-        print(f"  {self.current_jam}")
-        print(f"\n  {self.motto}\n")
-
-me = AkshatSingh()
+me = Akshat()
+me.say_hi()
 ```
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-
-## 🧰 Tech Arsenal — *The Full Stack*
-
-</div>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 💻 Languages & Core
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,cpp,c,bash,html,css&perline=9" />
-</p>
-
-### 🧠 AI / ML / DL
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=9" />
-<br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui,figma&perline=9" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### ⚙️ Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,express&perline=9" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase&perline=9" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins&perline=9" />
-</p>
-
-### 🛠️ Dev Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman&perline=9" />
-<br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+<!-- Matrix Divider -->
 <div align="center">
-
-## 🔭 What I'm Currently Exploring
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60"/><br/>
-      <b>🤖 LLM Fine-tuning</b><br/>
-      <sub>LoRA · QLoRA · RLHF</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="60"/><br/>
-      <b>🔐 Federated Learning</b><br/>
-      <sub>Privacy-Preserving ML</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="60"/><br/>
-      <b>☁️ Cloud-Native AI</b><br/>
-      <sub>Scalable ML Pipelines</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="60"/><br/>
-      <b>🌌 Multimodal AI</b><br/>
-      <sub>Vision · Language · Audio</sub>
-    </td>
-  </tr>
-</table>
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Stats Section -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-
-## 📊 GitHub Stats — *The Numbers Don't Lie*
-
-<img src="https://github-readme-stats.vercel.app/api?username=akshat-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-collab&theme=tokyonight&hide_border=true&stroke=00d9ff&ring=7f00ff&fire=ff6b35&currStreakLabel=00d9ff" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-collab&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" height="220"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshat-collab&theme=tokyonight&utcOffset=5.5" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00cc00&border_color=00ff00" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00cc00" height="180" alt="Top Languages"/>
+</div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-collab&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&line=7f00ff&point=ff6b35&bg_color=0d1117" width="100%"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00cc00&sideLabels=00cc00&dates=007700" width="700" alt="Streak Stats"/>
+</div>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=akshat-collab&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=matrix&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff00" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
+<h3 align="center">💻 Languages</h3>
 <div align="center">
-
-## 🚀 Featured Projects
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java&theme=dark" />
 </div>
 
+<h3 align="center">⚛️ Frameworks & Libraries</h3>
 <div align="center">
-
-<!-- Replace project names below with your actual repos -->
-<a href="https://github.com/akshat-collab/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-collab&repo=project1&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-&nbsp;
-<a href="https://github.com/akshat-collab/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-collab&repo=project2&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,tailwind,bootstrap&theme=dark" />
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+<h3 align="center">🗄️ Databases</h3>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=dark" />
+</div>
 
-## 🎵 The Vibe Station
-
-> *"The best code is written after midnight with the right playlist."*
-
-<!-- MUSIC SECTION -->
-### 🎧 Current Dev Playlist Mood
-
-| Genre | Vibe | Best For |
-|:---:|:---:|:---:|
-| 🌊 Lo-Fi Hip Hop | Chill & Focused | Debugging Sessions |
-| ⚡ Synthwave | Energized & Dark | Building Features |
-| 🔥 Phonk | Pure Aggression | Crunch Time |
-| 🌿 Ambient | Deep Flow | Research & Reading |
-| 🎸 Math Rock | Chaotic Genius | Architecting Systems |
-
-<br/>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" />
-
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  🎵 NOW PLAYING IN AKSHAT'S DEV ENV                   ║
-║  ──────────────────────────────────────────────────── ║
-║  🎧 Synthwave Classics — Carpenter Brut               ║
-║  ████████████████████░░░░░  72%   ⏸ 2:47 / 3:52      ║
-║  ◄◄  ▐▐  ►► ↺  ♡                     vol: ██████░░   ║
-╚═══════════════════════════════════════════════════════╝
-```
-
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,aws,figma&theme=dark" />
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+<!-- Matrix Divider -->
 <div align="center">
-
-## 💼 Open for Opportunities
-
-```diff
-@@ STATUS: ACTIVELY LOOKING @@
-
-+ 🔬 AI/ML Research Internships
-+ 💻 Full-Stack Development Projects  
-+ 🤝 Open Source Contributions
-+ 🛡️ Security-Focused ML Systems
-+ 📊 Data Engineering & MLOps Roles
-- ❌ Not available for: short-term spec work without impact
-```
-
-### 📬 Let's Connect & Build Something Legendary
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/akshat-singh-1103a0370/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:akshatthakur823@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/akshat-collab)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+<!-- Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-collab/akshat-collab/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-collab/akshat-collab/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akshat-collab/akshat-collab/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-## 💭 Daily Dev Wisdom
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-### ⚡ Fun Facts About Me
-
-| 🔢 | Fact |
-|:---:|:---|
-| 🕐 | My most productive hours are 11pm – 3am |
-| ☕ | I've debugged more with coffee than with Stack Overflow |
-| 🤖 | I talk to AI models more than most humans daily |
-| 🔁 | My commit message style: `fix: fixed the fix that fixed the last fix` |
-| 🎯 | Current goal: publish my first ML research paper |
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-
-<br/>
-
-<!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00d9ff,100:0d0d0d&height=120&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
+</div>
 
 ---
 
-*⭐️ Star some repos if you vibe with the work! — [akshat-collab](https://github.com/akshat-collab)*
-
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
+
+---
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://github.com/akshat-collab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/akshat-singh-1103a0370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:erakshatsingh08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Gmail"/>
+  
+</div>
+
+---
+
+<!-- Visitor Counter & Fun Facts -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshat-collab&style=for-the-badge&color=00ff00&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/akshat-collab?style=for-the-badge&color=00ff00&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
+</div>
+
+<br/>
+
+<!-- Fun Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20spoon.%20Only%20code.&author=The%20Matrix" alt="Quote"/>
+</div>
+
+<br/>
+
+<!-- Matrix Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=00ff00&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Matrix Easter Egg -->
+<!--
+01000111 01101111 01101111 01100100 00100000 01001010 01101111 01100010 00100001
+You decoded the binary. You're ready for the Matrix. 🟢
+-->
