@@ -187,11 +187,6 @@ print(me.dream_big())
 
 <br/>
 
-<!-- Recent Commits List -->
-<div align="center">
-  <h3>📝 Recent Commits</h3>
-  <img src="https://raw.githubusercontent.com/akshat-collab/akshat-collab/main/assets/commit-strip.svg" width="100%"/>
-</div>
 
 <div align="center">
   <details>
