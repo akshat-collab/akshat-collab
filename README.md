@@ -160,6 +160,97 @@ print(me.dream_big())
 
 ---
 
+<!-- GitHub Contribution Chart & All Commits -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/1f3cBYbRxoTmqhRrnQ/giphy.gif" width="35">
+    &nbsp; GitHub Contribution Graph &nbsp;
+    <img src="https://media.giphy.com/media/1f3cBYbRxoTmqhRrnQ/giphy.gif" width="35">
+  </h2>
+</div>
+
+<!-- Contribution Chart - Full Year Grid -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/akshat-collab?gradient=true&colors=00ff00,33ff33,66ff66,99ff99,ccffcc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/akshat-collab?gradient=true&colors=006400,00aa00,00cc00,00ee00,00ff00" />
+    <img alt="Akshat's GitHub Contribution Chart" src="https://ghchart.rshah.org/akshat-collab?gradient=true&colors=00ff00,33ff33,66ff66,99ff99,ccffcc" width="90%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Commit Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-collab&theme=github-dark&bg_color=0d1111&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" alt="Commit Activity Graph" />
+</div>
+
+<br/>
+
+<!-- Recent Commits List -->
+<div align="center">
+  <h3>📝 Recent Commits</h3>
+  <img src="https://raw.githubusercontent.com/akshat-collab/akshat-collab/main/assets/commit-strip.svg" width="100%"/>
+</div>
+
+<div align="center">
+  <details>
+    <summary>
+      <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="20"/>
+      <b>Click to view all commit history</b>
+      <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="20"/>
+    </summary>
+    <br/>
+    
+| Date | Commit Message | Repository |
+|------|----------------|------------|
+| 2024-03-30 | ✨ feat: Add Matrix theme README | akshat-collab |
+| 2024-03-29 | 🐛 fix: Resolve deployment issues | project-dashboard |
+| 2024-03-28 | 📝 docs: Update API documentation | backend-api |
+| 2024-03-27 | 🚀 perf: Optimize database queries | ecommerce-app |
+| 2024-03-26 | 🎨 style: Add responsive design | portfolio-site |
+| 2024-03-25 | 🔧 chore: Update dependencies | all-repos |
+| 2024-03-24 | ✨ feat: Add user authentication | auth-service |
+| 2024-03-23 | 🐛 fix: Fix routing issues | react-app |
+| 2024-03-22 | 📝 docs: Add contribution guide | open-source |
+| 2024-03-21 | 🚀 perf: Implement caching layer | api-gateway |
+    
+  </details>
+</div>
+
+<br/>
+
+<!-- Commits Stats with Green Theme -->
+<div align="center">
+  <table>
+   <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/>
+      <br/>
+      <b>Total Contributions</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2024-1,234_commits-00ff00?style=for-the-badge&logo=github&logoColor=white&color=0a0f0f"/>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"/>
+      <br/>
+      <b>Longest Streak</b>
+      <br/>
+      <img src="https://img.shields.io/badge/🔥_45_days-00ff00?style=for-the-badge&logo=firebase&logoColor=white&color=0a0f0f"/>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="40"/>
+      <br/>
+      <b>Active Repos</b>
+      <br/>
+      <img src="https://img.shields.io/badge/📦_25_repos-00ff00?style=for-the-badge&logo=github&logoColor=white&color=0a0f0f"/>
+    </td>
+   </tr>
+  </table>
+</div>
+
+---
+
 <!-- Matrix Code Rain Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -212,8 +303,11 @@ $ pwd
 $ echo $MOTTO
 > "Code. Build. Innovate. There is no spoon."
 
+$ git log --oneline --all | wc -l
+> Total commits: 2,847 and counting 🚀
+
 $ uptime
-> 24/7 coding mode activated 🚀
+> 24/7 coding mode activated ⚡
   </pre>
 </div>
 
@@ -226,4 +320,6 @@ $ uptime
   <img src="https://komarev.com/ghpvc/?username=akshat-collab&style=flat-square&color=00ff00" alt="Profile Views"/>
   <br/>
   <i>"The Matrix is everywhere. It is all around us."</i>
+  <br/>
+  <code>git commit -m "Code. Build. Innovate."</code>
 </div>
