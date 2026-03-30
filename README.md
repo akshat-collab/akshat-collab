@@ -1,29 +1,30 @@
+
 <!-- Matrix Rain Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Akshat &fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Akshat&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Matrix Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+Cool+Stuff+Daily;%F0%9F%9A%80+Open+Source+Enthusiast;%E2%9C%A8+Turning+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%A5+Building+Cool+Stuff+Daily;%F0%9F%9A%80+Open+Source+Enthusiast;%E2%9C%A8+Turning+Coffee+into+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- Matrix Animation GIF -->
+<!-- Matrix Digital Rain GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </div>
 
 ---
 
-<!-- About Me Section -->
+<!-- About Me Section with Animated Icons -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   &nbsp;About Me &nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
 <div align="center">
@@ -31,149 +32,142 @@
 </div>
 
 ```python
-class Irfan:
+class Akshat:
     def __init__(self):
         self.name       = "Akshat Singh"
         self.username   = "akshat-collab"
         self.location   = "India 🇮🇳"
         self.role       = "Full Stack Developer"
         self.languages  = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
-        self.frameworks = ["React", "Node.js", "Django", "Express"]
-        self.databases  = ["MongoDB", "MySQL", "PostgreSQL"]
-        self.tools      = ["Git", "Docker", "VS Code", "Postman"]
-        self.hobbies    = ["Coding", "Open Source", "Problem Solving", "Gaming"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        self.frameworks = ["React", "Node.js", "Django", "Express", "Next.js"]
+        self.databases  = ["PostgreSQL", "MongoDB", "MySQL"]
+        self.tools      = ["Git", "Docker", "AWS", "VS Code"]
+        self.motto      = "Code. Build. Innovate."
+    
+    def greet(self):
+        return "Welcome to my digital universe! 🌌"
+    
+    def current_focus(self):
+        return "Building scalable web apps & exploring AI/ML 🚀"
 
 me = Akshat()
-me.say_hi()
+print(me.greet())
+print(f"Currently: {me.current_focus()}")
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- Matrix Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
-
-<!-- Stats Section -->
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<!-- Tech Stack Section with Animated Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  &nbsp;Tech Stack & Tools &nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-collab&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00cc00&border_color=00ff00" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-collab&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00cc00" height="180" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-collab&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00cc00&sideLabels=00cc00&dates=007700" width="700" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-collab&theme=matrix&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff00" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<h3 align="center">💻 Languages</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,java&theme=dark" />
-</div>
-
-<h3 align="center">⚛️ Frameworks & Libraries</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,nextjs,tailwind,bootstrap&theme=dark" />
-</div>
-
-<h3 align="center">🗄️ Databases</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&theme=dark" />
-</div>
-
-<h3 align="center">⚙️ Tools & Platforms</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,aws,figma&theme=dark" />
-</div>
-
----
-
-<!-- Matrix Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
----
-
-<!-- Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-collab&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
-</div>
-
----
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
----
-
-<!-- Connect Section -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://github.com/akshat-collab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/akshat-singh-1103a0370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:erakshatsingh08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Gmail"/>
   
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0a0f0f)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=0a0f0f)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=0a0f0f)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=0a0f0f)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=0a0f0f)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=0a0f0f)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=0a0f0f)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=0a0f0f)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=0a0f0f)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0a0f0f)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0a0f0f)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&color=0a0f0f)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=0a0f0f)
+
 </div>
 
 ---
 
-<!-- Visitor Counter & Fun Facts -->
+<!-- GitHub Stats Section with Matrix Theme -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25">
+  &nbsp;GitHub Analytics &nbsp;
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25">
+</h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshat-collab&style=for-the-badge&color=00ff00&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/akshat-collab?style=for-the-badge&color=00ff00&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akshat-collab&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9c9c9&bg_color=0d1111" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-collab&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=0d1111" />
 </div>
 
-<br/>
-
-<!-- Fun Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=There%20is%20no%20spoon.%20Only%20code.&author=The%20Matrix" alt="Quote"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-collab&theme=matrix&hide_border=true&background=0d1111&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff" />
 </div>
 
-<br/>
+---
 
-<!-- Matrix Footer -->
+<!-- Featured Projects Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25">
+  &nbsp;Featured Projects &nbsp;
+  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25">
+</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=120&section=footer&text=Let's%20Build%20Together!&fontSize=30&fontColor=00ff00&fontAlignY=65&animation=twinkling" width="100%"/>
+  <a href="https://github.com/akshat-collab/project1">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-collab&repo=project1&theme=matrix&hide_border=true&bg_color=0d1111&title_color=00ff00&icon_color=00ff00&text_color=c9c9c9" />
+  </a>
+  <a href="https://github.com/akshat-collab/project2">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-collab&repo=project2&theme=matrix&hide_border=true&bg_color=0d1111&title_color=00ff00&icon_color=00ff00&text_color=c9c9c9" />
+  </a>
+  <a href="https://github.com/akshat-collab/project3">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-collab&repo=project3&theme=matrix&hide_border=true&bg_color=0d1111&title_color=00ff00&icon_color=00ff00&text_color=c9c9c9" />
+  </a>
+  <a href="https://github.com/akshat-collab/project4">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akshat-collab&repo=project4&theme=matrix&hide_border=true&bg_color=0d1111&title_color=00ff00&icon_color=00ff00&text_color=c9c9c9" />
+  </a>
 </div>
 
-<!-- Matrix Easter Egg -->
-<!--
-01000111 01101111 01101111 01100100 00100000 01001010 01101111 01100010 00100001
-You decoded the binary. You're ready for the Matrix. 🟢
--->
+---
+
+<!-- Connect With Me Section with Animated Icons -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
+  &nbsp;Let's Connect &nbsp;
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">
+</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/akshat-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0a0f0f" />
+  </a>
+  <a href="https://twitter.com/akshat_collab" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0a0f0f" />
+  </a>
+  <a href="https://akshat.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=vercel&logoColor=black&color=0a0f0f" />
+  </a>
+  <a href="mailto:akshat@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0f0f" />
+  </a>
+</div>
+
+---
+
+<!-- Matrix Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<!-- Matrix Rain Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshat-collab&style=flat-square&color=00ff00" alt="Profile Views"/>
+  <br/>
+  <i>"There is no spoon." - The Matrix</i>
+</div>
+```
