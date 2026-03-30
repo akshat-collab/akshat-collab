@@ -1,6 +1,6 @@
 <!-- Matrix Rain Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Irfan&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=Akshat SIngh&fontSize=80&fontColor=00ff00&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 </div>
 
 <!-- Matrix Typing Animation -->
@@ -65,21 +65,21 @@ me.say_hi()
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-collab7&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00cc00&border_color=00ff00" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat-collab&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00cc00&border_color=00ff00" height="180" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-collab7&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00cc00" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-collab&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00cc00" height="180" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-collab7&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00cc00&sideLabels=00cc00&dates=007700" width="700" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-collab&theme=matrix&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00cc00&sideLabels=00cc00&dates=007700" width="700" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan-collab7&theme=matrix&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff00" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-collab&theme=matrix&hide_border=true&bg_color=000000&color=00ff00&line=00cc00&point=00ff00" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ me.say_hi()
 <!-- Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Irfan-collab7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat-collab&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophies"/>
 </div>
 
 ---
