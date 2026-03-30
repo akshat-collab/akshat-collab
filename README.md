@@ -1,11 +1,11 @@
+<!-- Matrix Digital Rain Banner - FULL WIDTH -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Matrix Digital Rain"/>
+</div>
+
 <!-- Matrix Rain Header with Green Gradient -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Singh&fontSize=70&fontColor=00ff00&animation=twinkling&gradient=00ff00,006400,00cc00" width="100%"/>
-</div>
-
-<!-- Animated Matrix Code Rain Effect -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="4"/>
 </div>
 
 <!-- Typing Animation with Code Vibe -->
@@ -60,7 +60,7 @@ print(me.dream_big())
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
     </td>
-  </tr>
+   </tr>
 </table>
 
 ---
@@ -97,7 +97,7 @@ print(me.dream_big())
 </div>
 
 <table align="center">
-  <tr>
+   <tr>
     <td align="center">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
       <br/>
@@ -113,8 +113,8 @@ print(me.dream_big())
       <br/>
       <b>⚛️ React Flow</b>
     </td>
-  </tr>
-  <tr>
+   </tr>
+   <tr>
     <td align="center">
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="280"/>
       <br/>
@@ -130,7 +130,7 @@ print(me.dream_big())
       <br/>
       <b>🎨 UI/UX Crafting</b>
     </td>
-  </tr>
+   </tr>
 </table>
 
 ---
